@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyanshi Awasthi
-- 👀 I’m Looking for an internship as a Java Developer.
-- 🌱 I’m currently pursuing B.Tech with Computer Science.
+- 👀 I’m Software Engineer.
+- 🌱 I’m completed B.Tech with Computer Science in 2025.
 - 📫 How to reach me ...  https://www.linkedin.com/in/divyanshi-awasthi/
 
 <!---
